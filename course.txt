@@ -1,1 +1,1 @@
-Course: Git Basic 
+Course: Git and Jenkins 
